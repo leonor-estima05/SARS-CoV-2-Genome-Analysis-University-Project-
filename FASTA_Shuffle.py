@@ -1,6 +1,6 @@
-#Script 1:Take an input sequence from SARS-CoV-2 RNA Genome and make 1000 shuffled sequences in FASTA format
+#Script 1:Take an input sequence from SARS-CoV-2 RNA Genome (or any FASTA file) and make 1000 shuffled sequences in FASTA format
 #Warning: I wrote this script to run on the terminal, so to run it with your input file go to the terminal and write "python Script_1.py yourfilename.fasta"
-#This script takes in one sequence and shuffles it to 1000 sequences, this will be a fairly large file and can take a bit of time to finish
+#This script takes in one sequence and shuffles it to 1000 sequences, this will be a fairly large file
 
 #IMPORTS
 
